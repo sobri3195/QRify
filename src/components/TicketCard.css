@@ -1,0 +1,105 @@
+.ticket-card {
+  background: white;
+  border: 2px dashed #d1d5db;
+  border-radius: 12px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.ticket-header {
+  width: 100%;
+  text-align: center;
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+}
+
+.ticket-org {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 0.5rem;
+}
+
+.ticket-number {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #3b82f6;
+  font-family: 'Courier New', monospace;
+}
+
+.ticket-qr {
+  margin: 1rem 0;
+  padding: 0.5rem;
+  background: white;
+  border-radius: 8px;
+}
+
+.ticket-info {
+  width: 100%;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 2px solid #e5e7eb;
+}
+
+.ticket-meta,
+.ticket-extra,
+.ticket-scanned {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+  font-size: 0.875rem;
+}
+
+.ticket-meta-label {
+  font-weight: 600;
+  color: #6b7280;
+}
+
+.ticket-meta-value {
+  color: #111827;
+  text-align: right;
+}
+
+.ticket-scanned {
+  background: #dcfce7;
+  padding: 0.5rem;
+  border-radius: 4px;
+  margin-top: 0.5rem;
+}
+
+.ticket-scanned .ticket-meta-label {
+  color: #065f46;
+}
+
+.ticket-scanned .ticket-meta-value {
+  color: #065f46;
+  font-weight: 600;
+}
+
+.ticket-footer {
+  width: 100%;
+  text-align: center;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px dashed #d1d5db;
+}
+
+.ticket-id {
+  font-size: 0.75rem;
+  color: #9ca3af;
+  font-family: 'Courier New', monospace;
+}
+
+@media print {
+  .ticket-card {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto 1rem;
+    border: 2px solid #000;
+  }
+}
