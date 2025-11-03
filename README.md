@@ -357,4 +357,35 @@ Potential features for future versions:
 
 ---
 
+## 👨‍💻 Author
+
+**Lettu Kes dr. Muhammad Sobri Maulana, S.Kom, CEH, OSCP, OSCE**
+
+- GitHub: [@sobri3195](https://github.com/sobri3195)
+- Email: [muhammadsobrimaulana31@gmail.com](mailto:muhammadsobrimaulana31@gmail.com)
+- Website: [muhammadsobrimaulana.netlify.app](https://muhammadsobrimaulana.netlify.app)
+
+## 📞 Contact & Social Media
+
+- 🌐 **Website**: [muhammadsobrimaulana.netlify.app](https://muhammadsobrimaulana.netlify.app)
+- 🌐 **Portfolio**: [muhammad-sobri-maulana-kvr6a.sevalla.page](https://muhammad-sobri-maulana-kvr6a.sevalla.page/)
+- 📺 **YouTube**: [@muhammadsobrimaulana6013](https://www.youtube.com/@muhammadsobrimaulana6013)
+- 💬 **Telegram**: [winlin_exploit](https://t.me/winlin_exploit)
+- 🎵 **TikTok**: [@dr.sobri](https://www.tiktok.com/@dr.sobri)
+- 💬 **WhatsApp Group**: [Join Group](https://chat.whatsapp.com/B8nwRZOBMo64GjTwdXV8Bl)
+
+## 💖 Support & Donations
+
+If you find this project useful, consider supporting through:
+
+- 💳 **Lynk.id**: [lynk.id/muhsobrimaulana](https://lynk.id/muhsobrimaulana)
+- ☕ **Trakteer**: [trakteer.id/g9mkave5gauns962u07t](https://trakteer.id/g9mkave5gauns962u07t)
+- 🛍️ **Gumroad**: [maulanasobri.gumroad.com](https://maulanasobri.gumroad.com/)
+- 🎨 **Karya Karsa**: [karyakarsa.com/muhammadsobrimaulana](https://karyakarsa.com/muhammadsobrimaulana)
+- 💰 **Nyawer**: [nyawer.co/MuhammadSobriMaulana](https://nyawer.co/MuhammadSobriMaulana)
+
+Your support helps me create more open-source projects and educational content!
+
+---
+
 **Built with ❤️ using React + Vite**
